@@ -55,3 +55,14 @@ Identity according to company procedure, I completed the password reset process 
 Confirmed that access to the account was restored.
 </p>
 <br />
+
+<p>
+<img <img width="1984" height="1780" alt="image" src="https://github.com/user-attachments/assets/cf99e19c-5ac0-4795-bb81-2e18026446fc" />
+
+</p>
+
+<p>
+After confirming that Steve’s password-reset issue was resolved, I sent a final update
+explaining that account access had been restored. The ticket was then closed and documented 
+in osTicket.
+</p>
