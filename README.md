@@ -36,17 +36,22 @@ could regain access to his email and shared files.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1972" height="1780" alt="image" src="https://github.com/user-attachments/assets/c2981178-8919-4f9e-8fb6-3d0fb8fe81de" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket was assigned to me in the IT support queue. I reviewed Steve’s request and sent
+him an update confirming that his password-reset issue was being investigated.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1976" height="1770" alt="image" src="https://github.com/user-attachments/assets/2e566363-3096-4289-a82e-bf1d9052be9f" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I documented the troubleshooting steps in an internal note. After verifying the user’s
+Identity according to company procedure, I completed the password reset process and
+Confirmed that access to the account was restored.
 </p>
 <br />
