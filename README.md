@@ -25,10 +25,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img 
+<img <img width="1000" height="895" alt="Screenshot 2026-08-08 at 2 20 40 PM" src="https://github.com/user-attachments/assets/35298459-57d5-4872-ac55-ac8dbd08bec8" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Steve submitted a support ticket because he was unable to sign in to his company account.
+He reported receiving an “incorrect password” message and requested a password reset so he
+could regain access to his email and shared files.
 </p>
 <br />
 
