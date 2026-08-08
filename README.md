@@ -24,6 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<h3>1. Intake</h3>
 <p>
 <img <img width="1000" height="895" alt="Screenshot 2026-08-08 at 2 20 40 PM" src="https://github.com/user-attachments/assets/35298459-57d5-4872-ac55-ac8dbd08bec8" />
 
@@ -35,6 +36,7 @@ could regain access to his email and shared files.
 </p>
 <br />
 
+<h3>2. Assignment and Communication</h3>
 <p>
 <img <img width="1972" height="1780" alt="image" src="https://github.com/user-attachments/assets/c2981178-8919-4f9e-8fb6-3d0fb8fe81de" />
 
@@ -45,6 +47,7 @@ him an update confirming that his password-reset issue was being investigated.
 </p>
 <br />
 
+<h3>3. Working the Issue</h3>
 <p>
 <img <img width="1976" height="1770" alt="image" src="https://github.com/user-attachments/assets/2e566363-3096-4289-a82e-bf1d9052be9f" />
 
@@ -56,6 +59,7 @@ Confirmed that access to the account was restored.
 </p>
 <br />
 
+<h3>4. Resolution</h3>
 <p>
 <img <img width="1984" height="1780" alt="image" src="https://github.com/user-attachments/assets/cf99e19c-5ac0-4795-bb81-2e18026446fc" />
 
